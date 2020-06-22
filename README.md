@@ -1,16 +1,20 @@
-# customml
+## ObjectRecognizer
+This is a flutter application and implements a custom ML model which recognizes objects and tells about what they classify to be according to the model. The ML model was created by @nirupamgarg and the code to ML model can be found in his repository linked here: []
 
-Project to implement custom ML model
+Please find the application apk file here: [ObjectRecognizer](https://apkfab.com/customml/abhinav.customml/apk?h=5926c39c30790722ce52bcb3cc8cf4bccd3a19a647fa64d24a07b4e829754124)
+
+Contributions will be a great support to Open-Source.
+
+Thank you so much for visiting this repository :heart: Liked this? :star: Want to Contribute? :fork_and_knife:
+
+Contribution to this can be a huge step to Open-Source and a great help to many developers out here :smile:
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+1. Fork, Clone the repository and further open the downloaded directory with **Android Studio**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. Further, get the project dependencies by running flutter get option present in the alert.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Run main.dart to get going :smile:
