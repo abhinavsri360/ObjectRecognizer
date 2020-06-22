@@ -18,3 +18,13 @@ Contribution to this can be a huge step to Open-Source and a great help to many 
 1. Further, get the project dependencies by running flutter get option present in the alert.
 
 1. Run main.dart to get going :smile:
+
+## Screenshots
+
+### Home Screen
+
+![Home Screen](/images/home)
+
+### Result Screen
+
+![Result Screen](/images/result)
