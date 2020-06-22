@@ -23,8 +23,8 @@ Contribution to this can be a huge step to Open-Source and a great help to many 
 
 ### Home Screen
 
-![Home Screen](/images/home)
+![Home Screen](/images/home.png)
 
 ### Result Screen
 
-![Result Screen](/images/result)
+![Result Screen](/images/result.png)
