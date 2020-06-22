@@ -19,6 +19,21 @@ Contribution to this can be a huge step to Open-Source and a great help to many 
 
 1. Run main.dart to get going :smile:
 
+## Classifications
+
+objects|
+-------|
+airplane|
+automobile|
+bird|
+cat|
+deer|
+dog|
+frog|
+horse|
+ship|
+truck|
+
 ## Screenshots
 
 ### Home Screen
