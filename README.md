@@ -37,10 +37,6 @@ truck|
 
 ## Screenshots
 
-### Home Screen
-
 ![Home Screen](/images/home.png)
-
-### Result Screen
 
 ![Result Screen](/images/result.png)
