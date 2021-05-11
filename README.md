@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.com/abhinavsri360/ObjectRecognizer.svg)](http://hits.dwyl.com/abhinavsri360/ObjectRecognizer)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhinavsri360%2FObjectRecognizer&count_bg=%233D58C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=smash&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## ObjectRecognizer
 This is a flutter application and implements a custom deep-learning model which recognizes objects and tells about what they classify to be according to the model. The model was created by [@nirupamgarg](https://github.com/nirupamgarg) and the code to model can be found in his repository linked here: [Object-recognition](https://github.com/nirupamgarg/Object-recoginition)
 
